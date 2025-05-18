@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scenes/MeinErstesTool.uss?fileID=7433441132597879392&amp;guid=88bfe8f8f74cd8745ac03fab47534313&amp;type=3#MeinErstesTool" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Button text="Spawn&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Spawn" style="height: 231px;" />
+    </ui:VisualElement>
+</ui:UXML>
